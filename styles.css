@@ -29,7 +29,7 @@ body {
     text-align: center;
 }
 
-#e-health {
+#eHealth {
     color: black;
     font-size: 100px;
     text-align: center;
@@ -41,19 +41,19 @@ body {
     -moz-appearance: textfield;
 }
 
-#e-health::placeholder {
+#eHealth::placeholder {
     color: black;
     font-size: 100px;
     text-align: center;
 }
 
-#e-health::-webkit-outer-spin-button,
-#e-health::-webkit-inner-spin-button {
+#eHealth::-webkit-outer-spin-button,
+#eHealth::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
 
-#health-chunk {
+#healthChunk {
         color: black;
         font-size: 30px;
         text-align: center;
@@ -65,14 +65,14 @@ body {
         -moz-appearance: textfield;
 }
 
-#health-chunk::placeholder {
+#healthChunk::placeholder {
     color: #838383;
     font-size: 29px;
     text-align: center;
 }
 
-#health-chunk::-webkit-outer-spin-button,
-#health-chunk::-webkit-inner-spin-button {
+#healthChunk::-webkit-outer-spin-button,
+#healthChunk::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
