@@ -6,12 +6,14 @@ function addHealth (){
     let boxThree = parseInt(healthChunk.value)
     boxTwo += boxThree
     console.log(boxTwo)
+    document.getElementById('eHealth').value = boxTwo
 }
 
 function subHealth (){
     let boxTwo = parseInt(eHealth.value)
     let boxThree = parseInt(healthChunk.value)
     boxTwo -= boxThree
-    console.log(boxTwo)
+    console.log(boxTwo)   
+    document.getElementById('eHealth').value = boxTwo 
 }
 
